@@ -1,0 +1,45 @@
+/* body */
+body {
+  font-family: serif;
+  font-size: 12pt;
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+/* top */
+.container {
+  display: flex;
+  flex-direction: row;
+  max-width: 600px;
+  align-items: center;
+  align-content: center;
+}
+
+.box {
+  margin-right: 10px;
+}
+
+/* links */
+a {
+  color: #0000ff;
+  text-decoration: underline;
+}
+
+/* font elements */
+h1 {
+  font-size: 135%;
+  font-weight: bolder;
+  padding: 0;
+  margin: 0;
+}
+
+h2 {
+  font-size: 110%;
+  font-weight: bolder;
+  padding: 0;
+}
+
+/* photo */
+.photo {
+  width: 200px;
+}
